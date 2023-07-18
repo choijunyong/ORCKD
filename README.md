@@ -34,8 +34,8 @@ to be updated
 
 |          | Top-1 | Top-5 |
 |----------|---------|---------|
-| ResNet18(baseline)|   xx.xx      |  xx.xx       |    
-| ResNet18(Ours)|   xx.xx      |  xx.xx       |    
+| ResNet18(baseline)|   30.25      |  10.93       |    
+| ResNet18(Ours)|   28.00      |  9.13       |    
 
 ## Contact
 For questions, please contact: chldusxkr1@gmail.com
