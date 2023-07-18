@@ -2,7 +2,7 @@
 
 ## ORC: Network Group-based Knowledge Distillation using Online Role Change
   
-[![PWC](https://img.shields.io/badge/arXiv-2111.13353-fed000.svg)](https://arxiv.org/abs/2206.01186)
+[![PWC](https://img.shields.io/badge/arXiv-2206.01186-fed000.svg)](https://arxiv.org/abs/2206.01186)
 
 </div>
 
