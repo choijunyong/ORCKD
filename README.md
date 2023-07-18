@@ -37,7 +37,7 @@ If you use this code in your research, please cite:
 @article{choi2023orc,
   title={Network Group-based Knowledge Distillation using Online Role Change},
   author={Choi, Junyong and Cho, Hyeon and Jeong, Seockhwa and Hwang, Wonjun},
-  journal={arXiv preprint arXiv:2206.01186},
+  journal={IEEE International Conf. on Computer Vision},
   year={2023}
 }
 ```
