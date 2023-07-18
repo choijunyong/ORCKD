@@ -29,11 +29,12 @@ to be updated
 to be updated
 
 
-#### Top-1, Top-5 on ImageNet Val set 
+#### Top-1, Top-5 Error on ImageNet Val set 
 
-|          | Top-1 Error | Top-5 Error |
+|          | Top-1 | Top-5 |
 |----------|---------|---------|
-| ResNet18 |   xx.xx      |  xx.xx       |    
+| ResNet18(baseline)|   xx.xx      |  xx.xx       |    
+| ResNet18(Ours)|   xx.xx      |  xx.xx       |    
 
 ## Contact
 For questions, please contact: chldusxkr1@gmail.com
