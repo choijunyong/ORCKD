@@ -28,6 +28,13 @@ to be updated
 #### Training process.
 to be updated
 
+
+#### Top-1, Top-5 on ImageNet Val set 
+
+|          | Top-1 Error | Top-5 Error |
+|----------|---------|---------|
+| ResNet18 |   xx.xx      |  xx.xx       |    
+
 ## Contact
 For questions, please contact: chldusxkr1@gmail.com
 
