@@ -7,7 +7,7 @@
 </div>
 
 > **Network Group-based Knowledge Distillation using Online Role Change**<br>
-> [Junyong Choi](https://github.com/NaJaeMin92), Hyeon Cho, Seockhwa Jeong, Wonjun Hwang<br>
+> [Junyong Choi](https://github.com/choijunyong), Hyeon Cho, Seockhwa Jeong, Wonjun Hwang<br>
 > In ICCV 2023.<br><br/>
 
 
