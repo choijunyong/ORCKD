@@ -7,7 +7,7 @@
 </div>
 
 > **Network Group-based Knowledge Distillation using Online Role Change**<br>
-> [Junyong Choi](https://github.com/choijunyong), Hyeon Cho, Seockhwa Jeong, Wonjun Hwang<br>
+> [Junyong Choi](https://github.com/choijunyong)(Hyundai Motor Company), Hyeon Cho(Ajou Univ), Seockhwa Jeong(Ajou Univ), Wonjun Hwang(Ajou Univ)<br>
 > In ICCV 2023.<br><br/>
 <div align=center><img src="./figure.jpg" width="70%"></div><br/>
 
@@ -24,7 +24,14 @@
 
 ## Getting Started
 to be updated 
-
+1. For ImageNet dataset <br>
+Unzip the files and make the directory structures as follows.
+```
+data
+ └ ImageNet
+     └ train
+     └ val
+     └ test
 #### Training process.
 to be updated
 
