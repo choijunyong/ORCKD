@@ -32,6 +32,7 @@ data
      └ train
      └ val
      └ test
+```
 #### Training process.
 to be updated
 
