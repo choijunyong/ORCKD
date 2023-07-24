@@ -52,7 +52,7 @@ For questions, please contact: chldusxkr1@gmail.com
 If you use this code in your research, please cite:
 ```bibtex  
 @article{choi2023orc,
-  title={Network Group-based Knowledge Distillation using Online Role Change},
+  title={ORC:Network Group-based Knowledge Distillation using Online Role Change},
   author={Choi, Junyong and Cho, Hyeon and Jeong, Seockhwa and Hwang, Wonjun},
   journal={IEEE International Conf. on Computer Vision},
   year={2023}
