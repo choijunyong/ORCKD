@@ -7,7 +7,7 @@
 </div>
 
 > **Network Group-based Knowledge Distillation using Online Role Change**<br>
-> [Junyong Choi](https://github.com/choijunyong)(Hyundai Motor Company), Hyeon Cho(Ajou Univ), [Seockhwa Jeong](https://github.com/seok-hwa)(Ajou Univ), Wonjun Hwang(Ajou Univ)<br>
+> [Junyong Choi](https://github.com/choijunyong)(Hyundai Motor Company), Hyeon Cho(Ajou Univ), [Seokhwa Cheung](https://github.com/seok-hwa)(Ajou Univ), Wonjun Hwang(Ajou Univ)<br>
 > In ICCV 2023.<br><br/>
 <div align=center><img src="./assets/figure.jpg" width="70%"></div><br/>
 
